@@ -1,0 +1,62 @@
+/* General Body */
+* {
+	box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+/* Headers and Logos */
+.header {
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid black;
+	border-width: 1px 0px;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+	font-size: 26px;
+}
+
+/* Navigation Bar */
+.navbar {
+	font-size: 12px;
+	background-color: white;
+    list-style: none;
+	margin: auto;
+    padding: 10px;
+    border: 0px solid black;
+	text-align: center;
+}
+ul.navbar li {
+	display: inline;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+/* Main Text and Stuff*/
+div.maintext {
+	color: white;
+	background-color: black;
+}
+
+/* Links and URL's */
+a:hover {
+	font-weight: bold;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    color: #7575A3;
+    text-decoration: none;
+}
+
