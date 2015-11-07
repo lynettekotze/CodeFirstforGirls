@@ -1,0 +1,132 @@
+/* Paragraph */
+p {
+    color: green;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+/* Navigation Bar */
+div navbar {
+    color: green;
+    font-family: Garamond, serif;
+    font-size: 24px;
+}
+
+
+/*
+***********   BORDER-RADIUS  **************
+ROUND - add a %:     border-radius: 100%;
+SQUARE:     border-radius: 100;
+
+*/
+
+
+/*  other stuff
+h1 {
+    font-family: Verdana, sans-serif;
+    color: #576d94;
+}
+
+p {
+    font-size: 18px;
+    color: #4a4943;
+    font-family: Garamond, serif;
+}
+img {
+    height: 100px;
+    width: 300px;
+    border: 1px solid #4682b4;
+}
+a {
+    text-decoration: none;
+    color: #cc0000;
+}
+
+********* MAKING A BUTTON WITH ROUNDED CORNERS AND THAT IS CENTRED *********
+div {
+    height: 50px;
+    width: 120px;
+    border-color: #6495ed;
+    background-color: #bcd2ee;
+    border-style: dashed;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+}
+**************border-radius: 5px; is what gives you those rounded corners
+
+	<div>
+			<h3>Masdfa df</h3>
+			<div>
+				<h3>Me three!</h3>
+				<div>
+					<h3>Forget you guys. I'm about to be red
+
+div div div h3 {
+    color: red;
+}
+
+
+
+***************   UNIVERSAL SELECTOR  **************
+* {
+    border: 1px dashed #3a5fcd;
+}
+
+
+*****  Ids ********
+		<p id="intro">Cascading with CSS</p>
+		#intro {
+	font-weight: bold;
+	color: #000000;
+}
+
+
+***********   CLASSES    ***********
+<p class="list_item">
+
+.list_item {
+	font-family: Vivaldi, cursive;
+}
+
+
+***********   pseudo-class selectors    ***********
+selector:pseudo-class_selector {
+    property: value;
+}
+a:hover {
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+    color: #008b54;
+}
+a:hover {
+    color: #00ff00;
+}
+a:visited {
+    color: #ee9a00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
